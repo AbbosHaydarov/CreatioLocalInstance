@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c0ec7d04-f244-45fc-8809-b9aafb04d36a",
+    "Name": "UsrFirstBP",
+    "ModifiedOnUtc": "\/Date(1723617061000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "FirstBP",
+    "DependsOn": []
+  }
+}
