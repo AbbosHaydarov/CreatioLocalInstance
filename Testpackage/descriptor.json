@@ -1,0 +1,22 @@
+﻿{
+  "Descriptor": {
+    "UId": "132a0c8f-f559-bb94-3dd8-732cc3d30ff8",
+    "Name": "Testpackage",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1721383999000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/Testpackage.csproj",
+    "DependsOn": [
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base"
+      },
+      {
+        "UId": "b8bc60f4-5aef-4760-bd1b-57d7cbc48143",
+        "PackageVersion": "7.8.0",
+        "Name": "Base_ENU"
+      }
+    ]
+  }
+}
