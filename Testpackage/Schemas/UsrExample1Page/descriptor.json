@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ccaab1d6-370b-4aa8-aa23-3e861950b141",
+    "Name": "UsrExample1Page",
+    "ModifiedOnUtc": "\/Date(1723812535000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Example\""
+  }
+}
